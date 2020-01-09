@@ -1,0 +1,4 @@
+
+pyboolector
+-e git+https://github.com/mballance/cocotb.git@cocotb_lib#egg=cocotb
+
